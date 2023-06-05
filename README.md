@@ -4,4 +4,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 _This is a practice project for getting stated with Next 13._
 
-Followed [this](https://www.youtube.com/watch?v=__mSgDEOyv8&ab_channel=BeyondFireship) tutorial from [BeyondFireship](https://www.youtube.com/@beyondfireship) channel.
+Followed [this](https://www.youtube.com/watch?v=__mSgDEOyv8&ab_channel=BeyondFireship) tutorial from [Beyond Fireship](https://www.youtube.com/@beyondfireship) channel.
